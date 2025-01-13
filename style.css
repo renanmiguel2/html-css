@@ -43,6 +43,7 @@ header {
 }
 
 header > h1 {
+    padding: 0px;
     color: white;
     font-family: var(--fonte-destaque);
     font-size: 3em;
